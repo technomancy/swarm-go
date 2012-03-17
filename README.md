@@ -1,8 +1,6 @@
-# hack-project
+# Swarm Go
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
+The beginning of a Go implementation.
 
 ## Usage
 
@@ -10,6 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 ClojureWest Swarm Coders
 
 Distributed under the Eclipse Public License, the same as Clojure.

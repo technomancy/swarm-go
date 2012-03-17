@@ -1,4 +1,4 @@
-(ns hack-project.core
+(ns swarm.go
   (:use [clojure.pprint :only [pprint]]))
 
 (def board (atom nil))
@@ -52,4 +52,4 @@
 (defn play [size inputs]
   (reduce place-stone (make-board size) inputs))
 
-;; (play 5 inputs)
+;; (pprint (play 10 inputs))
